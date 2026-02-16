@@ -1,0 +1,26 @@
+.parent{
+display: flex;
+width: 100vw;
+background-color: red;
+padding: 10px;
+
+justify-content: space-evenly;
+
+
+
+
+
+
+}
+.child{ background-color: blue;
+    border: 10px solid black;
+    
+     width: 25%; 
+     height: 1000px; 
+     padding: 10px; 
+    }
+.child h{
+color: white;
+}
+
+h1{ color: red; }
